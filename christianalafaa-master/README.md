@@ -35,6 +35,7 @@ Christian is a software developer looking to leverage his technical skills to he
 ### Happy to connect 📫
 - [**LinkedIn**](https://www.linkedin.com/in/christianalafaa/)
 - [**Twitter**](https://twitter.com/christianalafaa)
+  [**Email**](mailto:chris.alafaa@gmail.com)
 
 
 Cheers!
