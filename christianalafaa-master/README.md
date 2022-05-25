@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![LinkedIn Badge]](https://www.linkedin.com/in/christianalafaa/)
 [![CV Badge]](https://drive.google.com/file/d/1UK7pmB1dKcvYfNUQFPk97qxYDuuueFle/view?usp=sharing)
 
-Christian is a software developer looking to leverage his technical skills to help address the problems of climate change. He is looking for software development roles at climate action/solution-focused companies, or to help with scientific research in related areas. He is currently part of the frontendend engineering team building the [Climate Mind](https://climatemind.org/) web app. An app and knowledge base to relate your values and things you care about to the real effects of climate change.
+Christian is a software developer looking to leverage his technical skills to help address the problems of climate change. He is looking for software development roles at climate action/solution-focused companies, or to help with scientific research in related areas. He is currently part of the frontend engineering team building the [Climate Mind](https://climatemind.org/) web app. An app and knowledge base to relate your values and things you care about to the real effects of climate change.
 
 ### Core Stacks:
 - Frontend: Javascript(React JS, Leaflet), TypeScript, HTML and CSS (Tailwind CSS, Bootstrap, Material UI)
