@@ -32,7 +32,7 @@ I am also a Contributing Writer at [Startup Basecamp](https://startupbasecamp.or
 [**CV/Resume**](https://drive.google.com/file/d/1UK7pmB1dKcvYfNUQFPk97qxYDuuueFle/view?usp=sharing)
 
 ### Blogs
-- [**Substack**](http://14zerocarbon.substack.com/)
+- [**Climate Tech In Africa Blog**](https://lnkd.in/eXk9efyJ)
 
 ### Happy to connect 📫
 - [**LinkedIn**](https://www.linkedin.com/in/christianalafaa/)
